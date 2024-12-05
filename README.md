@@ -13,7 +13,7 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ---
 
-### 🛠 &nbsp;Let's Connect :
+### 🤝 &nbsp;Let's Connect :
 <p align="left">
 <a href="https://www.linkedin.com/in/devesh-purohit-67266810a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Devesh Purohit" height="30" width="40" /></a>
 </p>
