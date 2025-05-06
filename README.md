@@ -9,7 +9,7 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - ⚡ In my free time I solve problems on Leetcode and read tech articles.
 - 📫 How to reach me: **purohitdev08@gmail.com**
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1m1sMIhBm8baNZ-UigmUinTqiHvb-vU0u/view?usp=sharing" target="_blank">CV</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/11XHuoy-klzbnAWh-X-BXhR1t8YTLFMtd/view" target="_blank">CV</a>
 
 ---
 
